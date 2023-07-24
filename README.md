@@ -8,5 +8,5 @@ Automate classroom ranking using Python and Selenium. Extract student data from 
 
 <img width="1680" alt="Screenshot 2023-07-25 at 1 11 10 AM" src="https://github.com/azhankamil/Rank-Calculator/assets/79698742/b7669dc0-1038-4c33-8c57-072a60428dd8">
 
-The code is Well Explained in side the electrical.py
+The code is Well Explained inside the <https://github.com/azhankamil/Rank-Calculator/blob/main/Electrical/electical.py>
 
